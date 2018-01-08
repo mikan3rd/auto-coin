@@ -2,3 +2,10 @@ coincheck==0.1.10
 gspread==0.6.2
 oauth2client==1.5.2
 python-dotenv==0.7.1
+certifi==2017.11.5
+chardet==3.0.4
+httplib2==0.10.3
+idna==2.6
+pyasn1==0.3.7
+pyasn1-modules==0.1.5
+rsa==3.4.2
