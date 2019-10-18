@@ -8,7 +8,7 @@ click==6.7
 coverage==4.4.1
 feedgen==0.5.1
 flake8==3.4.1
-Flask==0.12.2
+Flask==1.0
 Flask-RESTful==0.3.6
 freezegun==0.3.9
 gspread==0.6.2
