@@ -49,5 +49,5 @@ typed-ast==1.1.0
 typing==3.6.2
 urllib3==1.22
 virtualenv==15.1.0
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 pyOpenSSL==17.5.0
